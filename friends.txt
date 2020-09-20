@@ -1,10 +1,8 @@
-
 mess friends-
 noman
 abhishek
 rashed
 anmoy
-
 diu friends-
 kazi
 manik
@@ -12,5 +10,8 @@ nasim
 rayhan
 
 
-
-akash
+bubt friends
+kavya
+rika
+prome
+munna
